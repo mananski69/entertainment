@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CARTOON NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683?
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1125
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISNEY JUNIOR
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NBA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HISTORY CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NAT GEO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV LIVE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/737
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Nickelodeon HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TRAVEL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/661
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Discovery Channel PLUS
+http://supersonictv.live:25461/903310/034806/22074
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Discovery Channel LIFE
+http://supersonictv.live:25461/903310/034806/22075
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Nat Geo WILD LHD
+http://supersonictv.live:25461/903310/034806/22122
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMAX UHD
+http://supersonictv.live:25461/903310/034806/61187
