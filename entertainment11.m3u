@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CARTOON NETWORK
+https://indotv.tech/m3u8sd/usee-cartoonnetwork-indonesia.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1125
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISNEY JUNIOR
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NBA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HISTORY CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NAT GEO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV LIVE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/737
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Nickelodeon HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TRAVEL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/661
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Discovery Channel PLUS
+http://supersonictv.live:25461/903310/034806/22074
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Discovery Channel LIFE
+http://supersonictv.live:25461/903310/034806/22075
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Nat Geo WILD LHD
+http://supersonictv.live:25461/903310/034806/22122
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMAX UHD
+http://supersonictv.live:25461/903310/034806/61187
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISNEY CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOODNETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/528
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/gK7DZh1.jpg" group-title="",Cine Mo!
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/3254f236ad3e872.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/tCPwSEU.png" group-title="",Cinema One Asia
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/8b50f0987797f7d.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/ruTQs2i.png" group-title="",One Sports
+http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/pfDPIbN.png" group-title="",TV5
+http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/UJhd1do.png" group-title="",Kapamilya Channel
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0b57013.m3u8
